@@ -22,3 +22,10 @@ I have implemented it with C# and console app.
   * [Observer](./Behavioral/Observer)
   * [Mediator](./Behavioral/Mediator)
   * [State](./Behavioral/State)
+
+## 📔 Some of Facts
+* There are 23 design patterns that were identified and documented in the book "Design Patterns: Elements of Reusable Object-Oriented Software" by the Gang of Four (Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides). </br>
+* These patterns are categorized into 3 main categories based on their purpose and functionality: </br>
+  * 1.Creational Patterns: These patterns are concerned with object creation mechanisms, trying to create objects in a manner suitable to the situation. 
+  * 2.Structural Patterns: These patterns are concerned with object composition and the relationships between objects, aiming to form larger structures from individual objects.
+  * 3.Behavioral Patterns: These patterns are concerned with object communication and how objects collaborate to perform tasks.
